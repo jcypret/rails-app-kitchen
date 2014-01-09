@@ -1,2 +1,5 @@
 /cookbooks/
 data_bags/users/*.json
+
+Vagrantfile
+.vagrant
