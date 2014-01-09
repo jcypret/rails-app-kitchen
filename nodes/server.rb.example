@@ -1,0 +1,2 @@
+# give deployer and vagrant sudo rights
+node['authorization']['sudo']['users'] = ['deployer', 'vagrant']

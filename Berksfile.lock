@@ -1,0 +1,21 @@
+{
+  "sources": {
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "users": {
+      "locked_version": "1.6.0"
+    },
+    "chef-solo-search": {
+      "locked_version": "0.5.1"
+    },
+    "sudo": {
+      "locked_version": "2.3.0"
+    },
+    "basic-security-tlq": {
+      "locked_version": "0.0.1",
+      "git": "https://github.com/TalkingQuickly/basic_security-tlq",
+      "ref": "b40c3aa3a924903650dc05c9e0a53aaf46e5cc56"
+    }
+  }
+}
