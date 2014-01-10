@@ -8,5 +8,7 @@ run_list [
 	'recipe[users::sysadmins]',
 	'recipe[sudo]',
 	# security
-	'recipe[basic-security-tlq]'
+	# 'recipe[basic-security-tlq]'
+	'recipe[fail2ban]',
+	'recipe[firewall]'
 ]
